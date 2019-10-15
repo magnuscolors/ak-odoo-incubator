@@ -12,7 +12,7 @@
     "website": "http://akretion.com",
     "author": "Akretion," "Odoo Community Association (OCA)",
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "depends": ["account_invoice_supplierinfo_update"],
     "data": ["wizard/wizard_update_invoice_supplierinfo.xml"],
 }

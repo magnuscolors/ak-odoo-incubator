@@ -14,5 +14,5 @@
     "license": "AGPL-3",
     "depends": ["account_move_transactionid_import"],
     "data": [],
-    "installable": True,
+    "installable": False,
 }
